@@ -1,5 +1,6 @@
 # pro-task-manager
 A lightweight, privacy-first, single-file project management suite for small businesses and freelancers.
+* ![app screenshot](./kanban.png)
 # 🚀 ProTask Manager
 
 A high-performance, frontend-only Kanban board designed for deep focus and task management. No backend required—everything runs in your browser.
