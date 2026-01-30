@@ -26,4 +26,4 @@ A high-performance, frontend-only Kanban board designed for deep focus and task 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
+   git clone https://github.com/wbanda44/pro-task-manager.git
